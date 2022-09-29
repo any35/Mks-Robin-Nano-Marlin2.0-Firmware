@@ -818,9 +818,9 @@ extern eeprom_def eeprom_menu;
 #define HOME_Z_TEXT         "Z"
 #define HOME_ALL_TEXT       "All"
 
-#define ABOUT_TYPE_TEXT     "MKS Robin Pro"
+#define ABOUT_TYPE_TEXT     "上海知图智能-3d打印机"
 
-#define ABOUT_VERSION_TEXT  "1.0.0"
+#define ABOUT_VERSION_TEXT  "3.1.0"
 
 #define FAN_OPEN_TEXT       "100%"
 #define FAN_HALF_TEXT       "50%"
